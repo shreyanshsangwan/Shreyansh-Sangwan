@@ -49,7 +49,7 @@ The visual identity and user flows were developed through a rigorous UI/UX proce
 ---
 
 ### Author
-**Shreyansh Sangwan** [LinkedIn](https://www.linkedin.com/) | [Medium Portfolio](https://medium.com/@shreyanshsangwan)
+**Shreyansh Sangwan** [LinkedIn](https://www.linkedin.com/in/shreyanshsangwan/) | [Medium Portfolio](https://medium.com/ux-portfolio-shreyansh-sangwan/ui-ux-case-study-a-step-by-step-guide-to-the-process-of-designing-an-online-courier-service-91efbed9f851)
 
 # Run and deploy your AI Studio app
 
